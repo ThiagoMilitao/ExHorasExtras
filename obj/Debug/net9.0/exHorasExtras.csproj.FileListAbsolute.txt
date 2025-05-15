@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\obj\Debug\net9.0\exHorasExtras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\obj\Debug\net9.0\exHorasExtras.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\obj\Debug\net9.0\exHorasExtras.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\obj\Debug\net9.0\exHorasExtras.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\obj\Debug\net9.0\exHorasExtras.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\bin\Debug\net9.0\exHorasExtras.exe
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\bin\Debug\net9.0\exHorasExtras.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\bin\Debug\net9.0\exHorasExtras.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\bin\Debug\net9.0\exHorasExtras.dll
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\bin\Debug\net9.0\exHorasExtras.pdb
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\obj\Debug\net9.0\exHorasExtras.dll
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\obj\Debug\net9.0\refint\exHorasExtras.dll
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\obj\Debug\net9.0\exHorasExtras.pdb
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\obj\Debug\net9.0\exHorasExtras.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista4\exhorasextras\obj\Debug\net9.0\ref\exHorasExtras.dll
